@@ -1,0 +1,25 @@
+* Open folder in code editor
+
+run this command in terminal 
+
+
+
+pip install flask flask-cors tensorflow pillow numpy
+
+(first make sure python3.13 is installed)
+
+
+
+* Then to run server
+
+
+
+python backend\_server.py
+
+
+
+* Then open frontend.html file
+
+
+
+* Test with MRI's in Testing folder
